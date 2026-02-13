@@ -23,6 +23,12 @@ Desarrollar un script en Python utilizando Scapy para enviar BPDUs manipuladas c
 - Host atacante (Kali Linux)
 - Host víctima  (Window 10)
 
+  ---
+
+  ### Diagrama de Topología
+![Diagrama de Topología](Topologia.png)
+
+
 ---
 
 ## Funcionamiento

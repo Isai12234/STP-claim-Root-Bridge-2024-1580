@@ -10,6 +10,8 @@ Matrícula: 2024-1580
 
 [Ver video demostrativo] (https://youtu.be/j-XN6hBOSqk?si=FO2LdQtP_8S63AQy)
 
+---
+
 ## Objetivo
 Desarrollar un script en Python utilizando Scapy para enviar BPDUs manipuladas con prioridad 0 con el fin de convertirse en el Root Bridge en una red con STP habilitado.
 

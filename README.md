@@ -1,7 +1,7 @@
 # STP Claim Root Bridge Attack - Scapy
 
 ## Autor
-Nombre: Juan Isai Casado De oleo
+Nombre: Juan isai Casado De oleo
 Matrícula: 2024-1580
 
 ---
